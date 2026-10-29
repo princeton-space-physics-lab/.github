@@ -1,0 +1,1 @@
+This organization has been superseded by [space-physics-princeton](https://github.com/space-physics-princeton); specifically [space-physics-princeton/lab-code-team](https://github.com/orgs/space-physics-princeton/teams/lab-code-team).
